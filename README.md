@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessycaramos
 - 👀 I’m interested in Systems Development, Front-end, Python, MySQL and DataBase
 - 🌱 I’m currently learning Systems Development
-- 📫 How to reach me: contact me by email - jessycaramosf@gmail.com  
+- 📫 How to reach me: contact me by email - jessycaramos@yahoo.com.br 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm creative, so sometimes I do mutiples things at the same time, and none of them ends well.
 
