@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Systems Development
 - 📫 How to reach me: contact me by email - jessycaramos@yahoo.com.br 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm creative, so sometimes I do mutiples things at the same time, and none of them ends well.
+- ⚡ Fun fact: I'm creative, so sometimes I do mutiples things at the same time, and try to do everything ends well.
 
 <!---
 jessycaramos/jessycaramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
